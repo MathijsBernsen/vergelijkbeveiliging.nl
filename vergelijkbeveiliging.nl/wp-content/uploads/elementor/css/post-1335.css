@@ -1,0 +1,58 @@
+.elementor-1335 .elementor-element.elementor-element-7dd2abd > .elementor-container{min-height:18vh;}.elementor-1335 .elementor-element.elementor-element-7dd2abd > .elementor-container:after{content:"";min-height:inherit;}.elementor-1335 .elementor-element.elementor-element-14f603e{text-align:center;display:block;}.elementor-1335 .elementor-element.elementor-element-14f603e .elementor-heading-title{color:#4E4A49;font-family:"Roboto Slab", Roboto Slab;font-size:2.2em;}.elementor-1335 .elementor-element.elementor-element-804f095 > .elementor-container{max-width:830px;}.elementor-1335 .elementor-element.elementor-element-804f095{margin-top:0%;margin-bottom:3%;}.elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__progressbar-item-step{font-family:"Roboto Slab", Roboto Slab;font-size:2.8em;width:50px;line-height:50px;border-radius:50% 50% 50% 50%;color:#6EC1E4;background-color:#FFFFFF;}.elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__progressbar-item-title{font-family:"Roboto Slab", Roboto Slab;font-size:2.5em;}.elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__progressbar-item-step-number::after{background-color:#FFFFFF;}.elementor-1335 .elementor-element.elementor-element-f618753 .active .pafe-multi-step-form__progressbar-item-step{color:#FEFEFE;background-color:#6EC1E4;}.elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__progressbar-item.active .pafe-multi-step-form__progressbar-item-step-number::after{background-color:#6EC1E4;}.elementor-1335 .elementor-element.elementor-element-f618753 a.elementor-button, .elementor-1335 .elementor-element.elementor-element-f618753 .elementor-button{font-family:"Roboto Slab", Roboto Slab;font-size:2em;line-height:2.4em;color:#FFFFFF;background-color:#61CE70;border-radius:20px 20px 20px 20px;padding:0em 03.25em 0em 3.25em;}.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-message{font-family:"Roboto Slab", Roboto Slab;}.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-message.elementor-message-success{color:#61CE70;}.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-message.elementor-message-danger{color:#FF0000;}.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-message.elementor-help-inline{color:#7A7A7A;}.elementor-1335 .elementor-element.elementor-element-f618753{z-index:0;display:block;}.elementor-1335 .elementor-element.elementor-element-f618753 > .elementor-widget-container{border-radius:0px 0px 0px 0px;border-width:0px 0px 0px 0px;}body.elementor-page-1335 h1.entry-title, .elementor-page-title{display:none;}@media(max-width:1024px){.elementor-1335 .elementor-element.elementor-element-14f603e{display:block;}.elementor-1335 .elementor-element.elementor-element-f618753 a.elementor-button, .elementor-1335 .elementor-element.elementor-element-f618753 .elementor-button{padding:0em 03em 0em 3em;}.elementor-1335 .elementor-element.elementor-element-f618753 > .elementor-widget-container{padding:3em 0em 0em 0em;}.elementor-1335 .elementor-element.elementor-element-f618753{display:block;}}@media(max-width:767px){.elementor-1335 .elementor-element.elementor-element-7dd2abd{margin-top:0%;margin-bottom:0%;padding:0% 5% 0% 5%;}.elementor-1335 .elementor-element.elementor-element-14f603e{text-align:left;display:block;}.elementor-1335 .elementor-element.elementor-element-14f603e .elementor-heading-title{font-size:1.7em;line-height:1.3em;}.elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__progressbar-item-step{width:50px;line-height:50px;}.elementor-1335 .elementor-element.elementor-element-f618753 a.elementor-button, .elementor-1335 .elementor-element.elementor-element-f618753 .elementor-button{padding:0em 0.4em 0em 0.4em;}.elementor-1335 .elementor-element.elementor-element-f618753 > .elementor-widget-container{margin:0% 3% 0% 3%;padding:1em 0em 0.75em 0em;border-radius:20px 20px 20px 20px;}.elementor-1335 .elementor-element.elementor-element-f618753{display:block;}}/* Start custom CSS for pafe-multi-step-form, class: .elementor-element-f618753 */.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-button > span > span > i:before
+{
+    color: white !important;
+}
+
+.elementor-1335 .elementor-element.elementor-element-f618753 .elementor-button > span > span
+{
+    color: white !important;
+}
+
+.elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="prev"] span { 
+    padding: 0.6em 0em;
+} 
+.elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="next"] span { 
+    padding: 0.6em 0em;
+}
+
+.elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-submit-form-id="offerte_aanvraag"]  {
+    margin-left: 1.5em;
+}
+
+@media only screen and (max-width: 600px){
+    
+        .elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__content-item-buttons { 
+            display: block;
+            margin: 1em;
+        }
+        
+        .elementor-1335 .elementor-element.elementor-element-f618753 .pafe-multi-step-form__content-item-button { 
+            margin: 1em 0em;
+        }
+        
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="prev"]  { 
+            width: 100%;
+        } 
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="prev"] span { 
+            padding: 0em 0em;
+        } 
+        
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="next"]  { 
+            width: 100%;
+        }
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-nav="next"] span { 
+            padding: 0em 0em;
+        } 
+        
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-submit-form-id="offerte_aanvraag"] {
+            width: 100%;
+            margin-left: 0em;
+        }
+        .elementor-1335 .elementor-element.elementor-element-f618753 div[data-pafe-form-builder-submit-form-id="offerte_aanvraag"] span { 
+            padding: 0em 0em;
+        }
+        .elementor-1335 .elementor-element.elementor-element-f618753 {
+            box-shadow: 3px 3px 20px 0px rgba(0, 0, 0, 0.29);
+            border-radius: 20px;
+        }
+}/* End custom CSS */
